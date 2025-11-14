@@ -6,5 +6,5 @@
 192.168.56.103 ansible_user=lombogsysad2 ansible_password=123
 
 [web_servers]
-192.168.56.104 ansible_user=lombogsysad2 ansible_password=123
+192.168.56.104 ansible_user=ronnlombog ansible_password=123
 
